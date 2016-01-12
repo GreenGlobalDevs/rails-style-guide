@@ -1,4 +1,6 @@
 # Common configuration.
+# This file is edited base on default configurations from Rubocop https://github.com/bbatsov/rubocop/tree/master/config
+# StyleGuide Links in source are edited for conveniently access to company development
 AllCops:
   # Include common Ruby source files.
   Include:
